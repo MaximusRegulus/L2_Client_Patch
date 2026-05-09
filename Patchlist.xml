@@ -141,7 +141,6 @@
 	<file name='System/WinDrv.int' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/WinDrv.int' hash='5583ec64b74222aabff428f0c7e3e615' />
 	<file name='System/wrap_oal.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/wrap_oal.dll' hash='3f4a774be86425d0fe098f9d82c12de9' />
 	<file name='System/ZoneName-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ZoneName-e.dat' hash='e46995bfcb82c1bbfe15735e5eb99107' />
-
 	<archive name="Animations" type="7z-split" output_folder="Animations/">
 		<part name="Animations.7z.001" id="1iZOzUtGjm6aOP_nCjQL_4rN_FYqWhu33" hash="b87f4e9f40519b71989361398c0cacef" />
 		<part name="Animations.7z.002" id="17XHGq9AgFA5P6oQshvcPjR23W8SaWj7a" hash="fad5f1d5e651c32c60b9dda3158c4421" />
