@@ -142,7 +142,7 @@
 	<file name='System/wrap_oal.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/wrap_oal.dll' hash='3f4a774be86425d0fe098f9d82c12de9' />
 	<file name='System/ZoneName-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ZoneName-e.dat' hash='e46995bfcb82c1bbfe15735e5eb99107' />
 	<archive name="Animations" type="7z-split" output_folder="Animations/">
-		<part name="Animations.7z.001" id="1iZOzUtGjm6aOP_nCjQL_4rN_FYqWhu33" hash="b87f4e9f40519b71989361398c0cacef" />
+		<part name="Animations.7z.001" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/Animations.7z.001" hash="b87f4e9f40519b71989361398c0cacef" />
 		<part name="Animations.7z.002" id="17XHGq9AgFA5P6oQshvcPjR23W8SaWj7a" hash="fad5f1d5e651c32c60b9dda3158c4421" />
 		<part name="Animations.7z.003" id="18ctRIfiI_du0cBn2XwysBZXBFluE4if7" hash="4f2a9adb45243c37f6e866641af1e136" />
 		<part name="Animations.7z.004" id="1S-xwkgpYeQ4nT5wQ9GoMnPBZFEibQwFV" hash="2e2fbb54ecfe9bcd4196240144ae3079" />
@@ -152,7 +152,7 @@
 		<part name="Voice.7z.001" id="1R63DdRJBDpv2lwF8oJbn05EyGPqNe1XG" hash="992197e68d458f2f43db79b834822a9d" />
 	</archive>
 	<archive name="Textures" type="7z-split" output_folder="Textures/">
-		<part name="Textures.7z.007" id="1myd0aiSQ6em7_-fz_s5mBmAD2Z46_5D7" hash="595c3f670a5afce780e434aa17f1ea31" />
+		<part name="Textures.7z.007" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/Textures.7z.001" hash="595c3f670a5afce780e434aa17f1ea31" />
 		<part name="Textures.7z.001" id="1efxMgDYtppwLUJ3ac0D73UYhhAnoxYEe" hash="32bd8d41e614a9acc8cc5597a461b7eb" />
 		<part name="Textures.7z.006" id="1rN1AoPFuGlM4_PYEvKMWjcabH4HOr__c" hash="742f49133ce7159a2f93b159f7525193" />
 		<part name="Textures.7z.005" id="1bUAitMjMtX0k7pZJ-zjz38ENIcQxMzP4" hash="d8f1fafa28fc83e8daf67984b0289552" />
@@ -161,7 +161,7 @@
 		<part name="Textures.7z.003" id="16SXG2rAL4L-noD_gmylxYLB0eOIm_rNU" hash="59a50401f8e8a1d9b167d3d99a0e1015" />
 	</archive>
 	<archive name="SysTextures" type="7z-split" output_folder="SysTextures/">
-		<part name="SysTextures.7z.001" id="1FLFf73MVMWzPCRqOP_6kS2xin-9IPZ52" hash="1d42e08eb22d496dd4631e63f0582a30" />
+		<part name="SysTextures.7z.001" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/SysTextures.7z.001" hash="1d42e08eb22d496dd4631e63f0582a30" />
 		<part name="SysTextures.7z.008" id="14qhKEb9j0aaPzEg7F_TC81BX7zCBwSrt" hash="cdec9ffb2908ed5ca5ec7afc758af3bc" />
 		<part name="SysTextures.7z.007" id="1i7b5BIELbSpkk3qpuCgZeCYr7mBsY4e7" hash="52daa1ecee84935ed8b83b377c23e83c" />
 		<part name="SysTextures.7z.006" id="1UePpin91U2qF3NrpCwh38us6jqB6D9O-" hash="3b449ed2c3030965ed849a8ca25ff4de" />
@@ -171,14 +171,14 @@
 		<part name="SysTextures.7z.002" id="14iQ0qH-4lm_PlIzOZqkVLVq-BFj1CSRa" hash="1d475a446982cd082664313d7dcbcf70" />
 	</archive>
 	<archive name="StaticMeshes" type="7z-split" output_folder="StaticMeshes/">
-		<part name="StaticMeshes.7z.004" id="10ZEbzIfLlE88hcPNCc3LukiIvWICUR3H" hash="4fbd2a7186f55cd75f0af28ab82871ac" />
+		<part name="StaticMeshes.7z.004" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/StaticMeshes.7z.001" hash="4fbd2a7186f55cd75f0af28ab82871ac" />
 		<part name="StaticMeshes.7z.005" id="1eRPy8bAL1aXOUGO374hsQp31E_ISVGk5" hash="09a71531cc62adb2f8537022bacd4967" />
 		<part name="StaticMeshes.7z.001" id="1FSiIC8gC3RegyvaXOFIjsbPLznKj6Khs" hash="65605073fca88784565cb880d3b82320" />
 		<part name="StaticMeshes.7z.003" id="1sEpp45fYeghbCvErvZur8U2VTqNqV5Yp" hash="dac87d03418d7a415f682d26e74e4b10" />
 		<part name="StaticMeshes.7z.002" id="1zdSx5vQfG6xiecXhk9StG5fQRraMxg1b" hash="0d85cb18ebdc3ddd931e487ece6ad4f6" />
 	</archive>
 	<archive name="Sounds" type="7z-split" output_folder="Sounds/">
-		<part name="Sounds.7z.006" id="1YG9FAg2G-QM0E39pZ7xgNi-miCer8dVV" hash="8250af8454673c96cf57a2cfc046df12" />
+		<part name="Sounds.7z.006" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/Sounds.7z.001" hash="8250af8454673c96cf57a2cfc046df12" />
 		<part name="Sounds.7z.007" id="1gUKxdVOTuEH20lWPn4vFi8RAanFdoOre" hash="2f13068fd4ba1276815c5c5b9290a234" />
 		<part name="Sounds.7z.001" id="1_YXPvz620d11ixsWOR3aRmCw9twTVOSf" hash="95a7b9a013fc17bfcc6f7fe793beaa03" />
 		<part name="Sounds.7z.005" id="1SkeBQb0jWwRe9G64qIwjPX425wvzwYTU" hash="572c9cdd5f5144d586c1d9b598614d62" />
@@ -187,14 +187,14 @@
 		<part name="Sounds.7z.002" id="1tWG7bEkQ-1ih8TsUjT8S7pPvWeXP1SQl" hash="842e0c26ac40c303d21ba1f36f669133" />
 	</archive>
 	<archive name="music" type="7z-split" output_folder="music/">
-		<part name="music.7z.004" id="13VQwDek38HgTbPGWzRFlwqcfZa-9l_Tw" hash="a03ff1550270b4d2318999c808436902" />
+		<part name="music.7z.004" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/music.7z.001" hash="a03ff1550270b4d2318999c808436902" />
 		<part name="music.7z.005" id="1VGHVtQ4Y15kygls-TPdMMnZOj_vAnz8m" hash="1a76d1d28c336c06f3658205312561d8" />
 		<part name="music.7z.003" id="1-xSpzcJOWVi1IvSPKOx9PwMZbQzrEZqK" hash="cbb30effa11880cb0ca2b33a918d01e2" />
 		<part name="music.7z.001" id="1lRI0rVxGxuneuhysp9RkIa-Tq887XKCY" hash="06dd924ffb703f4380fcbd114d2ac2bb" />
 		<part name="music.7z.002" id="1VoqkMKZefh__lse8WqOGka26IhLmMQpU" hash="eb714bd600d744f6a1a760d1b2d1e7f8" />
 	</archive>
 	<archive name="MAPS" type="7z-split" output_folder="MAPS/">
-		<part name="MAPS.7z.001" id="1pmPXlC__QwYknJk60WeWA9Hq1UP9anRj" hash="933a734e0ca3a8d80cbc40c2a6b482c1" />
+		<part name="MAPS.7z.001" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/Chunks/MAPS.7z.001" hash="933a734e0ca3a8d80cbc40c2a6b482c1" />
 		<part name="MAPS.7z.002" id="19js2IPA2_YuZWkevAqGBGGq_Jxs_UcDu" hash="41cb4dd57571ddf10b3e2e935af856a8" />
 	</archive>
 	<archive name="L2text" type="7z-split" output_folder="L2text/">
