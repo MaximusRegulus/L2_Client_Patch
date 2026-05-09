@@ -92,7 +92,6 @@
 	<file name='System/npkpdb.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/npkpdb.dll' hash='755f8b8bebc46d524ed232fb46f44575' />
 	<file name='System/NSplash.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NSplash.dll' hash='a2fff5888002d3306ac1a140aa11e06d' />
 	<file name='System/NWindow.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow.dll' hash='1863ed239b332f024a6496a98f1b55ab' />
-	<file name='System/NWindow.dll.i64' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow.dll.i64' hash='9217528ffcd75935223b85fbf1a73697' />
 	<file name='System/NWindow.u' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow.u' hash='ba962178f95af5857c6701c2db38ff3c' />
 	<file name='System/Obscene-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Obscene-e.dat' hash='08414f1587eed1fc6522827fea59df94' />
 	<file name='System/ogg.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ogg.dll' hash='092f269b0102e2a7d3495148d1e76b02' />
