@@ -52,12 +52,9 @@
 	<file name='System/l2.exe' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/l2.exe' hash='5c4886644a2865eb555d58f533a3c7bb' />
 	<file name='System/L2.ini' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/L2.ini' hash='711f353fe15f04febf08b1b0eae6dee6' />
 	<file name='System/l2.int' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/l2.int' hash='b587a9068b55dc2de7f6c1244cddb446' />
-	<file name='System/l2.log' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/l2.log' hash='adfe7c5bad617ed67822ab1098d07a01' />
 	<file name='System/L2CompiledShader.bin' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/L2CompiledShader.bin' hash='af6abd1380013f8e77629828e5933576' />
 	<file name='System/L2ForecF.ffe' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/L2ForecF.ffe' hash='3278e5b9d738e71c4ea3f3aaa0a4ff4e' />
 	<file name='System/L2PreCompiledShader.bin' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/L2PreCompiledShader.bin' hash='d254224cf03893590befec95ebb1fa7f' />
-	<file name='System/l2Second.log' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/l2Second.log' hash='eb6c2d927a16ba26cde9406a56ec26ca' />
-	<file name='System/l2_d3d9.log' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/l2_d3d9.log' hash='fdc17df501a91230ee08e9679066dfd6' />
 	<file name='System/LargeFont-e.gly' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/LargeFont-e.gly' hash='57ee95176dd7dfba23ffc601eacf0baf' />
 	<file name='System/LargeFont.gly' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/LargeFont.gly' hash='22c176ebcc7b897d962488bfdc6db109' />
 	<file name='System/LineageCreature.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/LineageCreature.dll' hash='5563ea8b015ca69be3225a76b6468a66' />
