@@ -43,8 +43,6 @@
 	<file name='System/InstantZoneData-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/InstantZoneData-e.dat' hash='c1e460d2fe5f30f3dc8ccedbc1be1955' />
 	<file name='System/Interface.u' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Interface.u' hash='939b372442e61ee1b6ec88a1fa700bb7' />
 	<file name='System/Interface.xdat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Interface.xdat' hash='0c6c4ec86a430c57b571cfbd8228289f' />
-	<file name='System/Interface_original.u' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Interface_original.u' hash='939b372442e61ee1b6ec88a1fa700bb7' />
-	<file name='System/Interface_original.xdat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Interface_original.xdat' hash='7e737faeb78cbf642324d73aef1f2a94' />
 	<file name='System/IpDrv.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/IpDrv.dll' hash='88ef189f5f73373ff3de330f110425de' />
 	<file name='System/IpDrv.int' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/IpDrv.int' hash='abb94b3e3f7807e0e4d698f4600b4777' />
 	<file name='System/IpDrv.u' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/IpDrv.u' hash='055de2fa37bb4556efc7445190426139' />
@@ -96,8 +94,6 @@
 	<file name='System/npkcrypt.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/npkcrypt.dll' hash='52d79e12f6f3ad6e6a66c8f12c18e27e' />
 	<file name='System/npkpdb.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/npkpdb.dll' hash='755f8b8bebc46d524ed232fb46f44575' />
 	<file name='System/NSplash.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NSplash.dll' hash='a2fff5888002d3306ac1a140aa11e06d' />
-	<file name='System/NWindow - Copy (2).dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow - Copy (2).dll' hash='479d309174655ee1d1e2c936f22deea9' />
-	<file name='System/NWindow - Copy.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow - Copy.dll' hash='479d309174655ee1d1e2c936f22deea9' />
 	<file name='System/NWindow.dll' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow.dll' hash='1863ed239b332f024a6496a98f1b55ab' />
 	<file name='System/NWindow.dll.i64' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow.dll.i64' hash='9217528ffcd75935223b85fbf1a73697' />
 	<file name='System/NWindow.u' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/NWindow.u' hash='ba962178f95af5857c6701c2db38ff3c' />
@@ -124,7 +120,6 @@
 	<file name='System/StaticObject-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/StaticObject-e.dat' hash='0c751ef331cea49764781493ab3ca0cb' />
 	<file name='System/SymbolName-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SymbolName-e.dat' hash='669febd6e11a104c488722351fb69455' />
 	<file name='System/SysString-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SysString-e.dat' hash='bd4770936aeded27dd25b723aabba229' />
-	<file name='System/SysString-ru.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SysString-ru.dat' hash='98b54b08be90fca8fa96bc37b44181af' />
 	<file name='System/SystemMsg-e.dat' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SystemMsg-e.dat' hash='5365bdad68a046e3c9b75c51ffd3e4f8' />
 	<file name='System/s_info.ini' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/s_info.ini' hash='19b9be4ff7370e9bd02f81bbedaa7de4' />
 	<file name='System/TimeEnv0.int' url='https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/TimeEnv0.int' hash='9184b187a7bdfe8cb63d271ff6a15824' />
