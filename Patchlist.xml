@@ -116,7 +116,6 @@
 	<file name="System/StaticObject-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/StaticObject-e.dat" hash="0c751ef331cea49764781493ab3ca0cb" />
 	<file name="System/SymbolName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SymbolName-e.dat" hash="669febd6e11a104c488722351fb69455" />
 	<file name="System/SysString-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SysString-e.dat" hash="bd4770936aeded27dd25b723aabba229" />
-	<file name="System/SysString-ru.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SysString-ru.dat" hash="98b54b08be90fca8fa96bc37b44181af" />
 	<file name="System/SystemMsg-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SystemMsg-e.dat" hash="5365bdad68a046e3c9b75c51ffd3e4f8" />
 	<file name="System/s_info.ini" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/s_info.ini" hash="fed26235413eb4958aea040cc1b36cd2" />
 	<file name="System/TimeEnv0.int" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/TimeEnv0.int" hash="9184b187a7bdfe8cb63d271ff6a15824" />
