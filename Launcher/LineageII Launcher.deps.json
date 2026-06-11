@@ -10,7 +10,8 @@
       "LineageII Launcher/1.0.0": {
         "dependencies": {
           "Hardcodet.NotifyIcon.Wpf": "2.0.1",
-          "SharpCompress": "0.48.1"
+          "SharpCompress": "0.48.1",
+          "WpfSliderControl": "1.0.0"
         },
         "runtime": {
           "LineageII Launcher.dll": {}
@@ -29,6 +30,14 @@
           "lib/net10.0/SharpCompress.dll": {
             "assemblyVersion": "0.48.1.0",
             "fileVersion": "0.48.1.0"
+          }
+        }
+      },
+      "WpfSliderControl/1.0.0": {
+        "runtime": {
+          "WpfSliderControl.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
           }
         }
       }
@@ -53,6 +62,11 @@
       "sha512": "sha512-SqGaVniGG943Gph/gHhUQUiZPyC7y0tXZyMf0/B2oGsMav9dqs7JJOuUA+xOkwKYaWM2TM7aZQjNK91f4bX71A==",
       "path": "sharpcompress/0.48.1",
       "hashPath": "sharpcompress.0.48.1.nupkg.sha512"
+    },
+    "WpfSliderControl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
