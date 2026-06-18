@@ -16,12 +16,12 @@
 	<file name="System/Core.withGG.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Core.withGG.dll" hash="ecc2b18bcbe8e5a70a219bfb87940aeb" />
 	<file name="System/CreditFont.gly" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/CreditFont.gly" hash="7715fd8ad82b14f7b8873eac7825cf6e" />
 	<file name="System/Creditgrp-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Creditgrp-e.dat" hash="e10a69136fdd48e924a3a8239343f088" />
-	<file name="System/d3d9.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/d3d9.dll" hash="ae5126864b4f3ac5bc63bd6b5fecd910" />
+	<file name="System/d3d9.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/d3d9.dll" hash="3443bcbe51ec0a245ab05ce2c868b451" />
 	<file name="System/D3DDrv.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/D3DDrv.dll" hash="ddbada9f79f865edc8cd206351c2b5ba" />
 	<file name="System/D3DDrv.int" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/D3DDrv.int" hash="803f4689c1f0a97fd8692ec170d7d6b4" />
 	<file name="System/DSETUP.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/DSETUP.dll" hash="230173f19c0ad3648b455f50c9088ea2" />
-	<file name="System/dxgi.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/dxgi.dll" hash="fcf3f679f513bd6f8eaad8018f852f45" />
-	<file name="System/dxvk.conf" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/dxvk.conf" hash="ad994083925d971b2f40360ffb890413" />
+	<file name="System/dxgi.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/dxgi.dll" hash="8ff0845ef051a94c8664e17e56f059c7" />
+	<file name="System/dxvk.conf" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/dxvk.conf" hash="0cf85218a74e3c1f0c1c5ae196a81aee" />
 	<file name="System/Editor.u" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Editor.u" hash="0ec5119ae4db3a33a3c4b6febffde1c1" />
 	<file name="System/encvag.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/encvag.dll" hash="dc48574dc8c7b4df5708a53af50afe8a" />
 	<file name="System/Engine.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Engine.dll" hash="f2c9cb83f596ff2f3c2db10b35fb72db" />
