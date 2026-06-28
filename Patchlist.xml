@@ -31,7 +31,7 @@
 	<file name="System/Env.int" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Env.int" hash="1a0e80616d25aa023074fc0e6c43815d" />
 	<file name="System/EtcItemgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/EtcItemgrp.dat" hash="42f1329a91f94aac56a70a324ecf407d" />
 	<file name="System/EULA-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/EULA-e.dat" hash="5129a796a353e26535b72fce8ee75886" />
-	<file name="System/Fire.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Fire.dll" hash="c6ec2ec5c709cd7196838167ad452d4a" />
+	<file name="System/Fire.dll" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Fire.dll" hash="72f44dbc8e0a72460df340f7eb358655" />
 	<file name="System/Fire.u" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Fire.u" hash="9751cde61f7f1c2d8576e63d27a314db" />
 	<file name="System/GamePlay.u" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/GamePlay.u" hash="53882077e1ead31e22f426581ac95941" />
 	<file name="System/GameTip-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/GameTip-e.dat" hash="01f7155cdd482075f0e0770468ce18bb" />
