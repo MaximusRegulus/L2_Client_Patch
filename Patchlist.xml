@@ -107,8 +107,8 @@
 	<file name="System/ScenePlayerData.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ScenePlayerData.dat" hash="ccda4e48ac9ad5e45b62b0237caf057e" />
 	<file name="System/ServerName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ServerName-e.dat" hash="07f43d0ed6c30c1aae29bbe49571dea1" />
 	<file name="System/ShortcutAlias.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ShortcutAlias.dat" hash="28ce5db3d092db1260a3b77db34d0b12" />
-	<file name="System/Skillgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Skillgrp.dat" hash="0d88e5970aee28847101eaea9944a871" />
-	<file name="System/SkillName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SkillName-e.dat" hash="54eabad27ce7d70fd53db9962f53c648" />
+	<file name="System/Skillgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Skillgrp.dat" hash="732416d7e886dafee7eb505c33e114a3" />
+	<file name="System/SkillName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SkillName-e.dat" hash="13a090deb8444f3f3d24bd246f11f1a4" />
 	<file name="System/SkillSoundgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SkillSoundgrp.dat" hash="fdf10d1a7f73ccfc64aa61b16f0957c8" />
 	<file name="System/SmallFont-e.gly" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SmallFont-e.gly" hash="36d698b7f10edd766f81c5ac34f910be" />
 	<file name="System/SmallFont.gly" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SmallFont.gly" hash="a8af806d6afb6914b4233f4c7f83391f" />
@@ -1257,7 +1257,7 @@
 		<item name="FOrc.utx"  hash="f6b4e4327afb365b6ccddb8e6d4a2c7f"  />
 		<item name="FShaman.utx"  hash="1f5715af63a8e4b0d30c5035eb285ee8"  />
 		<item name="GoldCubes.utx"  hash="b7574735a8a75b0b2aeafd11f7e8cbae"  />
-		<item name="Icon.utx"  hash="2d4d1456f15d5c5a9c37f06c4e7dfc60"  />
+		<item name="Icon.utx"  hash="aa72bf65f7b863354c170d7760061040"  />
 		<item name="Icon_original.utx"  hash="be93103a92732eb98996d58946ed036a"  />
 		<item name="L2Font-e.utx"  hash="362b84e50edeeb662691c581071f4e74"  />
 		<item name="L2Font-ru.utx"  hash="6de03f1309c83d0eb79d5d114545152b"  />
