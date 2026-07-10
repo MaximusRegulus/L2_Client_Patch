@@ -107,8 +107,8 @@
 	<file name="System/ScenePlayerData.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ScenePlayerData.dat" hash="ccda4e48ac9ad5e45b62b0237caf057e" />
 	<file name="System/ServerName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ServerName-e.dat" hash="07f43d0ed6c30c1aae29bbe49571dea1" />
 	<file name="System/ShortcutAlias.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/ShortcutAlias.dat" hash="28ce5db3d092db1260a3b77db34d0b12" />
-	<file name="System/Skillgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Skillgrp.dat" hash="732416d7e886dafee7eb505c33e114a3" />
-	<file name="System/SkillName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SkillName-e.dat" hash="13a090deb8444f3f3d24bd246f11f1a4" />
+	<file name="System/Skillgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/Skillgrp.dat" hash="db168806119dca3f5efc70e60d4802cb" />
+	<file name="System/SkillName-e.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SkillName-e.dat" hash="0add766f8260eef60f8b2161f0320132" />
 	<file name="System/SkillSoundgrp.dat" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SkillSoundgrp.dat" hash="fdf10d1a7f73ccfc64aa61b16f0957c8" />
 	<file name="System/SmallFont-e.gly" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SmallFont-e.gly" hash="36d698b7f10edd766f81c5ac34f910be" />
 	<file name="System/SmallFont.gly" url="https://github.com/MaximusRegulus/L2_Client_Patch/raw/refs/heads/main/System/SmallFont.gly" hash="a8af806d6afb6914b4233f4c7f83391f" />
